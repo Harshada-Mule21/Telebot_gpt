@@ -9,11 +9,10 @@
 ```
 conda create -p telebot python=3.7
 ```
-
 ```
 conda activate telebot\
 ```
-
 ```
 pip install -r requirements.txt
 ```
+### This telebot communicates with chatgpt module and give the resonse to user on telegram.
