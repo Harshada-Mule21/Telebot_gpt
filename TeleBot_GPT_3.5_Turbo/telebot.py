@@ -22,7 +22,7 @@ TOKEN = os.getenv("TOKEN")
 
 #model name
 
-MODEL_NAME = "gpt-3.5-turbo-instruct"
+MODEL_NAME = "gpt-3.5-turbo"
 
 #Initialize bot and dispatcher
 bot = Bot(token=TOKEN)
